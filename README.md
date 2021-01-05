@@ -42,7 +42,7 @@ exports.mysql = {
 
 ```js
 // {app_root}/config/config.default.js
-exports.mysql = {
+config.mysql = {
   default: {
       
   },
