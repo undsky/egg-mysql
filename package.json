@@ -1,6 +1,6 @@
 {
   "name": "egg-mysql",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "",
   "eggPlugin": {
     "name": "mysql"
@@ -13,8 +13,8 @@
     "mysql2"
   ],
   "dependencies": {
-    "bytenode": "^1.3.3",
-    "mysql2": "^2.3.0"
+    "bytenode": "^1.3.4",
+    "mysql2": "^2.3.3"
   },
   "devDependencies": {
     "autod": "^3.1.1",
