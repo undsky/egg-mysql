@@ -4,9 +4,9 @@
 ## 安装
 
 ```bash
-$ npm i egg-mysql --save
+$ npm i egg-database-mysql --save
 # or
-$ yarn add egg-mysql
+$ yarn add egg-database-mysql
 ```
 
 ## 依赖说明

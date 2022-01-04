@@ -1,5 +1,5 @@
 {
-  "name": "egg-mysql",
+  "name": "egg-database-mysql",
   "version": "1.0.0",
   "description": "egg plugin for mysql",
   "eggPlugin": {
