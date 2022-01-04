@@ -1,7 +1,7 @@
 {
   "name": "egg-mysql",
-  "version": "3.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "egg plugin for mysql",
   "eggPlugin": {
     "name": "mysql"
   },
@@ -13,7 +13,6 @@
     "mysql2"
   ],
   "dependencies": {
-    "bytenode": "^1.3.4",
     "mysql2": "^2.3.3"
   },
   "devDependencies": {
@@ -49,12 +48,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-mysql.git"
+    "url": "git+https://github.com/undsky/egg-mysql2.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/undsky/egg-mysql2/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-mysql#readme",
-  "author": "",
+  "homepage": "https://github.com/undsky/egg-mysql2#readme",
+  "author": "姜彦汐 https://www.undsky.com",
   "license": "MIT"
 }
