@@ -83,7 +83,7 @@ await db1.del(sql);
 await db1.transaction([sql1,sql2,sql2]);
 ```
 
-## [点击查看更多开源项目 https://undsky.com/](https://undsky.com/)
+## [查看更多项目](https://www.undsky.com)
 
 ## License
 
