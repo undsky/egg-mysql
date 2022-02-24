@@ -1,6 +1,8 @@
 # egg-mysql
 
-> egg plugin for mysql
+> Egg plugin for mysql
+
+
 ## 安装
 
 ```bash
